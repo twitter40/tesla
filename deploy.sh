@@ -12,4 +12,4 @@ deployment8
 deployment400
 deployment200
 deployement100
-
+deploy to stagging env
