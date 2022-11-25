@@ -15,3 +15,4 @@ deployement100
 deploy to stagging env
 echo "good job"
 Tested and accepted
+deploy revoke
