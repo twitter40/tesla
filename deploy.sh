@@ -6,3 +6,7 @@ deployment11
 deployment2i master
 deployment2 master
 deployment30 masster
+deployment4
+deployment20
+deployment8
+>>>>>>> dev
