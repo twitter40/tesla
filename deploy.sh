@@ -17,3 +17,5 @@ echo "good job"
 Tested and accepted
 deploy revoke
 deployment access revoked completely
+app checking
+app finalised
